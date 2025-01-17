@@ -21,7 +21,7 @@ main {
 button {
     padding: 10px;
     border-radius: 10px;
-    color: #fff;
+    color: #000;
     background-color:#D6CDEA;
     border: none;
 }
@@ -33,7 +33,7 @@ button {
 }
 
 .photo {
-    width: 300px;
+    width: 200px;
     border-radius: 10px;
 
 }
@@ -41,13 +41,13 @@ button {
 .intro1 {
     font-family: "fraunces";
     font-weight: 500;
-    font-size: 35px;
+    font-size: 27px;
     margin-top: 0;
 }
 
 .intro2 {
     font-family: "fraunces";
-    font-size: 17px;
+    font-size: 18px;
     font-weight: 500;
 }
 
